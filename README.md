@@ -37,4 +37,6 @@
   
 ![Snake animation](https://github.com/lucas-leoni/lucas-leoni/blob/output/github-contribution-grid-snake.svg)
  
+![Profile views](https://komarev.com/ghpvc/?username=lucas-leoni&label=Profile+Views&color=brightgreen&style=flat)
+
 </div>
