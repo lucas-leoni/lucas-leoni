@@ -32,7 +32,6 @@
  
 <div>
   <a href="https://www.linkedin.com/in/lucas-leoni-311037187" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/leon1_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=5547997011007&text=Ol%C3%A1,%20Lucas" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   
 ![Snake animation](https://github.com/lucas-leoni/lucas-leoni/blob/output/github-contribution-grid-snake.svg)
