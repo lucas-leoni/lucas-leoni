@@ -2,10 +2,10 @@
 
 <div>
   <a href="https://github.com/lucas-leoni">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-leoni&show_icons=true&theme=merko&include_all_commits=true&count_private=true">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucas-leoni&show_icons=true&theme=merko&include_all_commits=true&count_private=true">
   </a>
   <a href="https://github.com/lucas-leoni">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-leoni&layout=compact&langs_count=7&theme=merko">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucas-leoni&layout=compact&langs_count=7&theme=merko">
   </a>
 </div>
 <div style="display: inline_block"><br>
